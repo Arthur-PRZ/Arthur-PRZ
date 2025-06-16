@@ -2,10 +2,18 @@
 
 ---
 
-## 👨‍💻 Currently at 42 school  
+### 👨‍💻 Currently at 42 school  
 Building strong foundations in development through the Common Core 42.
 
-### 💡 Currently learning C# an C++
+Now focusing on building skills in:
+  • C++
+  • C#
+
+Current Goals:
+  • Complete the 42 Common Core to strengthen my foundational skills  
+  • Build personal projects to explore technologies beyond the 42 curriculum
+
+---
 
 ### 💻 Lauguages
 
