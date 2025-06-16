@@ -1,6 +1,6 @@
 # 👋
 
-👨‍💻 Currently at 42 school
+👨‍💻 Currently at 42 school  
 Building strong foundations in development through the Common Core 42.
 
 💡 Currently learning C# an C++
