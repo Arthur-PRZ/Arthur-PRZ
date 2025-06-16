@@ -13,7 +13,7 @@ Now focusing on building skills in:
 Current Goals:
 
   - Complete the 42 Common Core to strengthen my foundational skills  
-  - Build personal projects to explore technologies beyond the 42 curriculum
+  - Build personal projects to achieve knowledge beyond the 42 curriculum
 
 My final goal is to be a develloper accomplished.
 
