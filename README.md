@@ -15,7 +15,7 @@ Current Goals:
   - Complete the 42 Common Core to strengthen my foundational skills  
   - Build personal projects to achieve knowledge beyond the 42 curriculum
 
-My final goal is to be a develloper accomplished.
+My final goal is to be a developper accomplished.
 
 ---
 
