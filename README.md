@@ -39,6 +39,7 @@ My final goal is to be a developper accomplished.
 - My LinkedIn: [LinkedIn](https://www.linkedin.com/in/arthur-perez-570a95336/)
 - Email: arthur.perez66000@gmail.com
 - Location: Perpignan, France
+- Languages spoken: French/English
 
 
 
