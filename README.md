@@ -7,13 +7,13 @@ Building strong foundations in development through the Common Core 42.
 
 Now focusing on building skills in:
 
-  • C++  
-  • C#
+  - C++  
+  - C#
 
 Current Goals:
 
-  • Complete the 42 Common Core to strengthen my foundational skills  
-  • Build personal projects to explore technologies beyond the 42 curriculum
+  - Complete the 42 Common Core to strengthen my foundational skills  
+  - Build personal projects to explore technologies beyond the 42 curriculum
 
 My final goal is to be a develloper accomplished.
 
