@@ -15,6 +15,8 @@ Current Goals:
   • Complete the 42 Common Core to strengthen my foundational skills  
   • Build personal projects to explore technologies beyond the 42 curriculum
 
+My final goal is to be a develloper accomplished.
+
 ---
 
 ### 💻 Lauguages
@@ -28,6 +30,17 @@ Current Goals:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
+### 📫 Contact
+
+- My LinkedIn: [Arthur Perez](https://www.linkedin.com/in/arthur-perez-570a95336/)
+- Email: arthur.perez66000@gmail.com
+- Location: Perpignan, France
+
+
 
 <!--
 **Arthur-PRZ/Arthur-PRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
