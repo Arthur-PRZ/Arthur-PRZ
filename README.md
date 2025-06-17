@@ -41,6 +41,7 @@ My final goal is to be a developper accomplished.
 - Location: Perpignan, France
 - Languages spoken: French/English
 
+You can find on my github all of my projects.
 
 
 <!--
