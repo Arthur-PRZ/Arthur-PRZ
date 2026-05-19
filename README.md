@@ -1,21 +1,21 @@
-# 👋 Hello, World!
+# 👋 Hello i'm Arthur!
 
 ---
 
 ### 👨‍💻 Currently at 42 school  
-Building strong foundations in development through the Common Core 42.
+I have successfully completed the Common Core at 42 and i’m now continuing to improve my programming skills through personal and collaborative projects.
 
 Now focusing on building skills in:
 
   - C++  
-  - C#
+  - Python
 
 Current Goals:
 
-  - Complete the 42 Common Core to strengthen my foundational skills  
+  - Looking for a 6-month internship or work placement to complete the 42 curriculum and gain professional experience 
   - Build personal projects to achieve knowledge beyond the 42 curriculum
 
-My final goal is to be a developper accomplished.
+My long-term goal is to become a skilled and accomplished software developer.
 
 ---
 
