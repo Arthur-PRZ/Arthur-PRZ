@@ -7,12 +7,11 @@ I have successfully completed the Common Core at 42 and i’m now continuing to 
 
 Now focusing on building skills in:
 
-  - C++  
-  - Python
+  - C#
 
 Current Goals:
 
-  - Looking for a 6-month internship or work placement to complete the 42 curriculum and gain professional experience 
+  - Looking for a 6-month internship to complete the 42 curriculum and gain professional experience 
   - Build personal projects to achieve knowledge beyond the 42 curriculum
 
 My long-term goal is to become a skilled and accomplished software developer.
