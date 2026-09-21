@@ -14,7 +14,7 @@ Current Goals:
   - Looking for a 6-month internship to complete the 42 curriculum and gain professional experience 
   - Build personal projects to achieve knowledge beyond the 42 curriculum
 
-My long-term goal is to become a skilled and accomplished software developer.
+My long-term goal is to become a game developer.
 
 ---
 
