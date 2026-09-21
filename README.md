@@ -7,7 +7,7 @@ I have successfully completed the Common Core at 42 and i’m now continuing to 
 
 Now focusing on building skills in:
 
-  - C#
+  - Unreal Engine
 
 Current Goals:
 
