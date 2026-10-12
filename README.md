@@ -27,9 +27,10 @@ My long-term goal is to become a game developer.
 ### 🛠️ Using
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
@@ -37,7 +38,7 @@ My long-term goal is to become a game developer.
 
 - My LinkedIn: [LinkedIn](https://www.linkedin.com/in/arthur-perez-570a95336/)
 - Email: arthur.perez66000@gmail.com
-- Location: Perpignan, France
+- Location: Pollestres, France
 - Languages spoken: French/English
 
 You can find on my github all of my projects.
